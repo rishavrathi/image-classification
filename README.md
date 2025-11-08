@@ -31,4 +31,4 @@ This project implements Convolutional Neural Network (CNN) models using TensorFl
 - TensorFlow, Keras, and other dependencies (`requirements.txt`)
 
 ## Author
-[Rajan Thakulla](https://github.com/your-username)
+[Rishav Rathi](https://github.com/your-username)
